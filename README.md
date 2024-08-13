@@ -23,5 +23,5 @@ Seaborn is built on top of Matplotlib and provides a high-level interface for dr
 
 If you want to contact me, you can reach out through the following channels:
 - Email: [work.dilkushsingh@gmail.com](mailto:work.dilkushsingh@gmail.com)
-- LinkedIn: [https://linkedin.com/in/dilkushsingh](https://linkedin.com/in/dilkushsingh)
-- Portfolio: [https://dilkushsingh.github.io](https://dilkushsingh.github.io)
+- LinkedIn: [Dilkush Singh](https://linkedin.com/in/dilkushsingh)
+- Portfolio: [Dilkush Singh](https://dilkushsingh.github.io)
