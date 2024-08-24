@@ -29,6 +29,15 @@ Seaborn is built on top of Matplotlib and provides a high-level interface for dr
 Plotly is a versatile graphing library that allows you to create interactive plots. In this section, I've explored various types of interactive visualizations, from basic charts to complex dashboards, which can be extremely useful for data analysis and presentation.
 [Plotly](https://github.com/dilkushsingh/Data-Science/tree/main/6.%20Plotly)
 
+### Data Analysis Process
+Data Analysis Process, it is iterative and non-linear but highly structured. From asking the right questions to effectively communicating results, each step plays a crucial role in deriving meaningful insights.
+- Asking the Right Questions - Starting with strong questions is key. 
+- Data Wrangling/Munging - Transforming raw data into a valuable format.
+- Exploratory Data Analysis (EDA) - Unveiling insights through data exploration.
+- Drawing Conclusions - Using techniques like Machine Learning and Statistics.
+- Communicating Results - Sharing outcomes effectively through reports, presentations, and more.
+  [Data Analysis Process](https://github.com/dilkushsingh/Data-Science/tree/main/7.%20Data%20Analysis%20Process)
+
 ## Contact
 
 If you want to contact me, you can reach out through the following channels:
